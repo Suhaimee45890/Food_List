@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000916175464",
+    "project_id": "app01-dart",
+    "storage_bucket": "app01-dart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000916175464:android:98c6584cc64faf8be289dd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_fltter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9SLkIgI4tM_v87qJgOlhkwFtyG9DgjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
